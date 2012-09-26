@@ -1,4 +1,4 @@
 interviewstreet
 ===============
 
-Learning JavaScript - sample exercises from www.interviewstreet.com
+JavaScript - sample exercises from www.interviewstreet.com
